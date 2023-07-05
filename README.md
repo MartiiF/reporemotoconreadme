@@ -1,3 +1,3 @@
 # reporemotoconreadme
 Este es un repositorio remoto con readme.
-A README is often the first item a visitor will see when visiting your repository. README files typically include information on: What the project does. Why the project is useful.
+Un README es a menudo el primer elemento que un visitante verá cuando visite su repositorio. Los archivos README normalmente incluyen información sobre: ​​Lo que hace el proyecto. Por qué es útil el proyecto.
